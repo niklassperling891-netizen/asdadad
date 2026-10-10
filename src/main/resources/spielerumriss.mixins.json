@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "de.spielerumriss.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "refmap": "spielerumriss.refmap.json",
+  "client": [
+    "EntityGlowMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
